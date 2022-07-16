@@ -1,4 +1,5 @@
 # deepRacer-with-Optitrack  
+***
 
 ## vrpn_clinet_ros  
 
@@ -12,4 +13,4 @@ source /opt/ros/melodic/setup.bash
 source /opt/ros/dashing/setup.bash  
 ```  
   
-Change the IP address to your optitrack server pc in /vrpn_client_ros/config/sample.params.yaml
+Change the IP address to your optitrack server pc in [/vrpn_client_ros/config/sample.params.yaml](https://github.com/n00Nspr1ng/deepRacer-with-Optitrack/blob/main/vrpn_client_ros/config/sample.params.yaml)
