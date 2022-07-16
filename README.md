@@ -3,7 +3,7 @@
 
 ## vrpn_clinet_ros  
 
-This package is aimed at porting the original vrpn cient which is based on ROS1 melodic to ROS2 dashing env.
+This package is aimed at porting the original vrpn client which is based on ROS1 melodic to ROS2 dashing env.
 
 After downloading the files, you need to source both melodic & dahsing to build.  
 Sourcing both bash files consequently will do the job.  
